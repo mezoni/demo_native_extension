@@ -1,0 +1,4 @@
+name: demo_native_extension
+dependencies:
+  ccompilers: any
+  path: any
